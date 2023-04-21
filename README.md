@@ -14,7 +14,7 @@ KerasGA-CNN is a Python-based project that combines a genetic algorithm with a c
 ## Installation
 To install KerasGA-CNN, follow these steps:
 
-Clone the repository to your local machine: git clone https://github.com/yourusername/KerasGA-CNN.git<br> 
+Clone the repository to your local machine: git clone https://github.com/ishtails/KerasGA-CNN.git<br> 
 Change to the project directory: cd KerasGA-CNN<br> 
 Install the required dependencies: pip install -r requirements.txt<br> 
 Optionally, set up any additional configuration or environment variables as needed.
