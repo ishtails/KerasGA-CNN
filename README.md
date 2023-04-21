@@ -11,14 +11,6 @@ It is important to note that the stock market is subject to various risks and un
 ## Description
 KerasGA-CNN is a Python-based project that combines a genetic algorithm with a convolutional neural network (CNN) implemented using Keras for predicting buy, sell, or hold signals on daily timeframe financial data. The project provides an implementation of a genetic algorithm that evolves the architecture and hyperparameters of the CNN to optimize its performance for making accurate trading decisions.
 
-## Installation
-To install KerasGA-CNN, follow these steps:
-
-Clone the repository to your local machine: git clone https://github.com/ishtails/KerasGA-CNN.git<br> 
-Change to the project directory: cd KerasGA-CNN<br> 
-Install the required dependencies: pip install -r requirements.txt<br> 
-Optionally, set up any additional configuration or environment variables as needed.
-
 ## Credits
 KerasGA-CNN builds upon the work of various open-source libraries and resources, including:
 
