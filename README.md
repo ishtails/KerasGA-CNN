@@ -27,8 +27,7 @@ PyGAD - A Python library for implementing genetic algorithms.<br>
 Pandas - A powerful data manipulation library for Python.<br> 
 NumPy - A library for numerical computing in Python.<br> 
 Matplotlib - A plotting library for Python.<br> 
-Financial data sources - [Kaggle](https://www.kaggle.com/datasets/nikhilkohli/us-stock-market-data-60-extracted-features)
-
+Financial data sources - <a href="https://www.kaggle.com/datasets/nikhilkohli/us-stock-market-data-60-extracted-features" target="_blank">Kaggle</a>
 ## Roadmap
 The future development roadmap for KerasGA-CNN includes:
 
