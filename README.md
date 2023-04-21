@@ -14,24 +14,24 @@ KerasGA-CNN is a Python-based project that combines a genetic algorithm with a c
 ## Installation
 To install KerasGA-CNN, follow these steps:
 
-Clone the repository to your local machine: git clone https://github.com/yourusername/KerasGA-CNN.git
-Change to the project directory: cd KerasGA-CNN
-Install the required dependencies: pip install -r requirements.txt
+Clone the repository to your local machine: git clone https://github.com/yourusername/KerasGA-CNN.git<br> 
+Change to the project directory: cd KerasGA-CNN<br> 
+Install the required dependencies: pip install -r requirements.txt<br> 
 Optionally, set up any additional configuration or environment variables as needed.
 
 ## Credits
 KerasGA-CNN builds upon the work of various open-source libraries and resources, including:
 
-Keras - A popular deep learning library for Python.
-Genetic Algorithm Library (GAFT) - A Python library for implementing genetic algorithms.
-Pandas - A powerful data manipulation library for Python.
-NumPy - A library for numerical computing in Python.
-Matplotlib - A plotting library for Python.
+Keras - A popular deep learning library for Python.<br> 
+PyGAD - A Python library for implementing genetic algorithms.<br> 
+Pandas - A powerful data manipulation library for Python.<br> 
+NumPy - A library for numerical computing in Python.<br> 
+Matplotlib - A plotting library for Python.<br> 
 Financial data sources - [Kaggle](https://www.kaggle.com/datasets/nikhilkohli/us-stock-market-data-60-extracted-features)
 
 ## Roadmap
 The future development roadmap for KerasGA-CNN includes:
 
-Enhancing the genetic algorithm for better optimization of CNN architecture and hyperparameters.
-Testing new labeling algorithms for better profit generation.
-Improving the documentation and providing more examples for users to understand and use KerasGA-CNN effectively.
+Enhancing the genetic algorithm for better optimization of CNN architecture and hyperparameters.<br> 
+Testing new labeling algorithms for better profit generation.<br> 
+Improving the documentation and providing more examples for users to understand and use KerasGA-CNN effectively.<br> 
